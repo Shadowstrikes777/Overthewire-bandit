@@ -1,3 +1,10 @@
 ok so I used the sort command to look up for the password idk if this is the right way 
 I was wrong using sort -u -c did not give the password
 
+Oh so I got back to the challenge today and what I did first
+is that I looked at grep manual and I tried to find out if there was
+a way to find only uniq password but I didn t succeed however I learned
+more and better about patterns and regular expressions and such and such.
+Since the manual reading skill is improving I looked at the uniq manual
+and found out that -u shows only the uniq ones, after cat I could
+pipe it into sort then do the uniq command and found out the password
