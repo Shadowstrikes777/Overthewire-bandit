@@ -1,0 +1,14 @@
+The goal of this level is for you to log into the game using SSH.
+
+First find out what SSH is, then using the password and the port
+connect to it .
+
+
+I found out that the ssh works like this ssh<username>@<remote>
+with remote being the server;
+That of course could be done if you have SSH INSTALLED, which having
+it not installed is rare but not impossible , so first find out how to
+install and use it.
+
+I logged in the level0 using the bandit0 username and the bandit0
+password

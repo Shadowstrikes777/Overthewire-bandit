@@ -1,0 +1,9 @@
+oh this is interesting human readable file what does that mean first
+lets just google it .
+
+Using the find command I can try finding the human readable file -type f
+pipe it to file command then search for some text 
+
+
+hint the file command gives the file type of  a file once you know 
+what filetype a file is then it should be pretty easy 

@@ -1,0 +1,4 @@
+this is the last challenge before I sleep 
+
+I should find all human-readable files that has 1033 bytes in size and are not executables
+so using find and specifying the type and the size I didn t need the last info at all to find the password next challenge

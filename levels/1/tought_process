@@ -1,0 +1,28 @@
+ok so I just finished level0 and it asked me to go to level1 now
+while staying into bandit0
+
+it says the password is stored in a readme file. So we just have to
+find what linux command to read a file .
+ok so the cat commands does it, cat file
+then it gives the password go ahead and copy it so that we can ssh to
+the next level
+
+if you still are not familiar with ssh it is as follow
+ssh -p2220 bandit1@bandit.labs.overthewire.org
+-p specifies the port
+
+when prompted for the password give the password you have copied.
+ok actually you need to exit the bandit0 before doing the ssh again,
+use the "exit" command and redo the ssh command above.
+
+reminder: if you are unsure about something google it.
+I have successfully connected to bandit1 now we have to go from bandit1 to bandit2
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+the password for bandit2 is stored in a file called -
+first list files using ls
+
+we can try to cat the file again using cat
+it doesn t work. we look at google about dashed file name and find out it is a special file type so then cat it the big boss way, I ll let you find that out yourself
+again use google
+
+for the ssh don t forget the format bandit(levelid)@hostname
