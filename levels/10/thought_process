@@ -1,0 +1,7 @@
+Ok so last time we used the string command to find out about the password.
+
+now it says that the password for the next level is stored in the file data.txt, 
+which contains base64 encoded data.
+
+first thing I do is look at the man of the base64 command
+haha we just had  to decrypt it XDDD

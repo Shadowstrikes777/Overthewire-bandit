@@ -3,3 +3,9 @@ preceded by several = characters maybe I can try to look at the string
 command manual or the grep manual maybe one of the things or commands need to solve that level
 it seems that I am in a good way cause looking at the stirngs command
 it s not bad BUT ihave to sleep
+
+Hello guys, it s me again and today I ll try to finish this level.
+
+Ok I used the strings command to show me all the content of the file since the file
+is somehow encoded in binary or whatever that is , then I grep the = character and
+took the random alphabet one cause most of the password are like that 
