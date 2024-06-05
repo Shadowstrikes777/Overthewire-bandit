@@ -1,0 +1,2 @@
+it says something about rotating lowercase and uppercase letters by 13positions
+ cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
