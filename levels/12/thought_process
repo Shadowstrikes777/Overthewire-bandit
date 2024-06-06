@@ -1,0 +1,4 @@
+J ai fait ce que le sujet a demande puis j ai decode avec xxd le hexdump et je l ai revert
+avec -r then je l ai regarder avec strings what content is inside then I did file to the 
+result in order for me to understand what file extension is there after that when I 
+uncompressed according to the file name and did the same again and again and again and again
